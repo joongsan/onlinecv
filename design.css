@@ -121,3 +121,21 @@ li a:hover {
     justify-content: flex-start;
     padding-top: 100px;
 }
+
+.btn-success{
+    font-size: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    color: black;
+}
+
+.btn-success:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #4CAF50;
+    border-radius: 10px;
+    color: white;
+}
